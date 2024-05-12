@@ -1,2 +1,2 @@
-# SOML
-Simple Open Source Multimedia library
+# GauL
+Game utility library
